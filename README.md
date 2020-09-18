@@ -1,4 +1,4 @@
-## Calcule seu IMC
+# Calcule seu IMC
 
 ## Página Inicial
 
